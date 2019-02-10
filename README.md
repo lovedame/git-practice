@@ -3,5 +3,4 @@
 v1
 v2
 b2v1
-ff1
-
+make reset-branch

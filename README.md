@@ -4,5 +4,5 @@ v1
 v2
 b2v1
 make reset-branch
-
-from child
+r1
+r2
